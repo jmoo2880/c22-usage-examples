@@ -5,10 +5,13 @@ analysis workflows.
 
 To get started, you'll need to install the latest version of *pycatch22* via [pip](https://pypi.org/project/pycatch22/):
 
-```pip install pycatch22```
+```python 
+pip install pycatch22
+```
 
 # 📚 Notebook Descriptions 
-The *catch22* usage examples are organised as individual Jupyter notebooks, each focusing on different applications.
+The *catch22* usage examples are organised as individual Jupyter notebooks, each focusing on a different application.
+
 
 
 # 📖 *catch22* Feature Descriptions 

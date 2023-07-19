@@ -11,7 +11,7 @@ pip install pycatch22
 
 # 📚 Notebook Descriptions 
 The *catch22* usage examples are organised as individual Jupyter notebooks, each focusing on a different application.
-- __*catch22_pandas_example.ipynb*__: This notebook serves as an example for implementing *catch22* and constructing a time-series 
+- __*catch22_pandas_example.ipynb*__: This notebook serves as an example for implementing *catch22* and constructing a time-series $\times$ feature matrix in pandas. Here, you will learn how to extract time-series features from a general dataset and integrate them into a pandas dataframe, providing a well-organised and accessible format for further time-series analysis. 
 
 
 # 📖 *catch22* Feature Descriptions 
@@ -28,3 +28,4 @@ While this repository specifically focuses on the Python (pycatch22) implementat
 
 # Todo
 - Add instructions for how to access individual features.
+- Add more general time-series dataset format (i.e. csv format). 

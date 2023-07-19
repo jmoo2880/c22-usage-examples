@@ -4,7 +4,7 @@ This repository specifically focuses on the practical implementation of *catch22
 
 # Additional Implementations
 While this repository focuses on the Python implementation, *catch22* is avilable in multiple languages.
-Further details about the Julia ([Catch22.jl](https://github.com/brendanjohnharris/Catch22.jl)) and R ([Rcatch22](https://github.com/hendersontrent/Rcatch22)) implementations of *catch22* can be found in the original
+Further details about the Julia ([Catch22.jl](https://github.com/brendanjohnharris/Catch22.jl)) and R ([Rcatch22](https://github.com/hendersontrent/Rcatch22)) implementations of *catch22* can be found in the original *catch22*
 [repository](https://github.com/DynamicsAndNeuralSystems/catch22) and [wiki](https://github.com/DynamicsAndNeuralSystems/catch22/wiki/Installation-and-Testing). 
 
 # Resources

@@ -11,7 +11,7 @@ pip install pycatch22
 
 # 📚 Notebook Descriptions 
 The *catch22* usage examples are organised as individual Jupyter notebooks, each focusing on a different application.
-- *catch22_pandas_example.ipynb*
+- __*catch22_pandas_example.ipynb*__: This notebook serves as an example for implementing *catch22* and constructing a time-series 
 
 
 # 📖 *catch22* Feature Descriptions 

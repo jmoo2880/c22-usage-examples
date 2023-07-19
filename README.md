@@ -1,5 +1,5 @@
 # *catch22* Python Usage Examples
-__*catch22*__ is a subset of the 22 best-performing time-series features, distilled from a comprehensive time-series feature library of over 7000 features in [hctsa](https://github.com/benfulcher/hctsa).
+__*catch22*__ is a subset of the 22 best-performing time-series features, distilled from a comprehensive library of over 7000 time-series features in [hctsa](https://github.com/benfulcher/hctsa).
 The purpose of this repository is to guide new users through the practical utilisation of *catch22* within their Python-based time-series
 analysis workflows.
 
@@ -7,7 +7,7 @@ To get started, you'll need to install the latest version of *pycatch22* via [pi
 
 ```pip install pycatch22```
 
-# 📚 Tutorial Descriptions 
+# 📚 Notebook Descriptions 
 The *catch22* usage examples are organised as individual Jupyter notebooks, each focusing on different applications.
 
 

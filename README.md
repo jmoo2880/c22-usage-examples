@@ -26,6 +26,5 @@ While this repository specifically focuses on the Python (pycatch22) implementat
 - [*catch22*](https://github.com/DynamicsAndNeuralSystems/catch22.git) - CAnonical Time-series CHaracteristics
 - [Lubba et al. (2019). catch22: CAnonical Time-series CHaracteristics.](https://link.springer.com/article/10.1007/s10618-019-00647-x)
 
-# Todo
-- Add instructions for how to access individual features.
+# Todo:
 - Add a more general time-series dataset format (i.e. csv format). 
